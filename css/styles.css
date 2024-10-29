@@ -16,7 +16,7 @@ header h3 {
   color: #fff;
   font-size: 25px;
 }
-span {
+header span {
   height: 28px;
   width: 28px;
   background-color: #eb3007;
@@ -262,4 +262,101 @@ header p i {
 .booking-form h4 {
   font-weight: 800;
   margin-top: -6px;
+}
+
+.gallery-box h4 {
+  font-weight: 800;
+  margin-top: -6px;
+}
+.i-common {
+  height: 230px;
+  margin: 5px;
+  background-size: cover;
+}
+.i-1 {
+  background-image: url("/img/i-1.jpg");
+}
+.i-2 {
+  background-image: url("/img/i-2.jpg");
+}
+.i-3 {
+  background-image: url("/img/i-3.jpg");
+}
+.i-4 {
+  background-image: url("/img/i-4.jpg");
+}
+.i-5 {
+  background-image: url("/img/i-5.jpg");
+}
+.i-6 {
+  background-image: url("/img/i-6.jpg");
+}
+.i-7 {
+  background-image: url("/img/i-7.jpg");
+}
+.i-8 {
+  background-image: url("/img/i-8.jpg");
+}
+.testimonials {
+  height: 100vh;
+  background-image: url("/img/testi.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.overlay-3 {
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.testimonials-box h4 {
+  font-weight: 800;
+  margin-top: -6px;
+  color: white;
+}
+.t-box {
+  height: 400px;
+}
+.blog-page {
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+.blog-box h4 {
+  font-weight: 800;
+  margin-top: -6px;
+}
+.blog-card {
+  height: 400px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.img-top {
+  height: 200px;
+  background-size: cover;
+}
+.img-text p {
+  font-size: 14px;
+}
+.service {
+  height: 70vh;
+  background-image: url("/img/serviice.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.overlay-4 {
+  height: 70vh;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.map {
+  height: 50vh;
+}
+
+.footer-bottom {
+  height: 50px;
+  background-color: #000000;
+}
+.footer-bottom p {
+  font-size: 13px;
+}
+.footer-bottom i {
+  color: white;
+  margin-left: 10px;
 }
