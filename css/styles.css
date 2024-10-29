@@ -245,3 +245,21 @@ header p i {
   color: #eb3007;
   margin-top: -7px;
 }
+.booking-page {
+  height: 100vh;
+  background-color: #000000;
+}
+.booking-img {
+  height: 100%;
+  background-image: url("/img/res.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.booking-form {
+  height: 500px;
+  width: 400px;
+}
+.booking-form h4 {
+  font-weight: 800;
+  margin-top: -6px;
+}
