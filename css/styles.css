@@ -1,0 +1,247 @@
+.home-page {
+  height: 100vh;
+  background-image: url("/img/homepage1.jpg");
+  background-size: cover;
+}
+.overlay {
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+header {
+  height: 70px;
+  border-bottom: 2px solid #4f4d4c;
+}
+header h3 {
+  font-weight: 700;
+  color: #fff;
+  font-size: 25px;
+}
+span {
+  height: 28px;
+  width: 28px;
+  background-color: #eb3007;
+  border-radius: 28px;
+  margin-left: 10px;
+  margin-top: -4px;
+}
+header .nav-link {
+  color: #ffffff;
+  font-weight: 400;
+}
+.nav-link:hover {
+  color: white;
+}
+.myBtn {
+  background-color: #eb3007;
+  font-size: 13px;
+  width: 120px;
+  color: white;
+  font-weight: 600;
+}
+.myBtn:hover {
+  background-color: #eb3007;
+  color: white;
+}
+header p i {
+  margin-left: 10px;
+  color: white;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.section-1 {
+  height: calc(100vh - 70px);
+}
+.text-box {
+  height: 300px;
+  width: 800px;
+}
+
+.text-box h1 {
+  font-size: 70px;
+  font-weight: 700;
+}
+.text-box {
+  font-size: 17px;
+}
+@font-face {
+  font-family: logo;
+  src: url("fonts/Blacksword.otf");
+}
+.logo {
+  color: #eb3007;
+  font-size: 25px;
+  font-family: logo;
+}
+.story-page {
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+.section-2 {
+  width: 1000px;
+}
+.cheff-img {
+  height: 400px;
+  width: 400px;
+}
+.story {
+  height: 400px;
+  width: 400px;
+  text-align: justify;
+}
+.text-box-1 h5 {
+  font-weight: 800;
+  margin-top: -20px;
+}
+.bookbtn {
+  outline: 2px solid #eb3007;
+  font-size: 13px;
+  width: 130px;
+  color: #eb3007;
+}
+.img-frame-1 {
+  border: 2px solid #eb3007;
+  height: 300px;
+  width: 300px;
+  position: relative;
+}
+.my-img-1 {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  border: 6px solid #dbdbdb;
+  top: 30px;
+  left: 30px;
+  background-image: url("/img/ceff-1.jpg");
+  background-size: cover;
+}
+.page-3 {
+  height: 70vh;
+  background-image: url("/img/page3.jpg");
+  background-size: cover;
+}
+.overlay-2 {
+  height: 70vh;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.page-3-content-1 {
+  width: 250px;
+}
+.circle {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  border: 1px solid #eb3007;
+  margin: auto;
+}
+.line {
+  width: 30px;
+  height: 2px;
+  background-color: #eb3007;
+  margin: auto;
+}
+.menu-page {
+  background-color: #f7f7f7;
+}
+.menu-text {
+  width: 600px;
+
+  margin-top: 30px;
+}
+.menu-text h4 {
+  font-weight: 800;
+  margin-top: -6px;
+}
+.menu-nav .nav-link {
+  color: #6b6b6b;
+  font-size: 12px;
+}
+.menu-nav .nav-item {
+  border: 1px solid #e4e4e4;
+  border-bottom: none;
+  margin-left: 10px;
+  background-color: #ffffff;
+}
+.menu-nav {
+  border-bottom: 3px solid #e4e4e4;
+}
+.menu-box {
+  height: 150px;
+  position: relative;
+  background-color: #ffffff;
+}
+.price-box {
+  position: absolute;
+  width: 55px;
+  height: 35px;
+  background-color: #eb3007;
+  right: 0px;
+  color: #ffffff;
+}
+.menu-box .text {
+  font-size: 14px;
+}
+.menu-box .text b {
+  color: #6b6b6b;
+}
+#ing {
+  color: #eb3007;
+}
+.delicious {
+  height: 100vh;
+  background-color: #19130f;
+}
+.delicious-box {
+  width: 400px;
+}
+.dl-1 {
+  margin-left: 120px;
+}
+.delicious-box h4 {
+  font-weight: 700;
+  margin-top: -6px;
+}
+.del-img-box {
+  height: 400px;
+  width: 500px;
+  border: 4px solid rgb(85, 85, 85);
+  position: relative;
+  background-image: url("/img/fire.jpg");
+  background-size: cover;
+}
+.Course-box {
+  position: absolute;
+  width: 500px;
+  height: 350px;
+  border: 4px solid #e5e5e5;
+  left: 400px;
+  top: 20px;
+  background-color: #ffffff;
+}
+.cheff-page {
+  height: 100vh;
+  background-color: #f7f7f7;
+}
+.chef-box h4 {
+  font-weight: 800;
+  margin-top: -6px;
+}
+.cheff-about {
+  height: 400px;
+  width: 800px;
+  border: 4px solid #dbdbdb;
+}
+.img-ceff {
+  border-left: 4px solid #dbdbdb;
+  height: 392px;
+  background-color: white;
+  background-image: url("/img/cef.jpg");
+  background-size: cover;
+}
+.review {
+  background-color: #ffffff;
+}
+.ceff-text .p1 {
+  font-size: 10px;
+  color: #eb3007;
+  margin-top: -7px;
+}
